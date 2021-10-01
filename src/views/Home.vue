@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Hello Sơn Mập"/>
+    <HelloWorld msg="Hello World"/>
   </div>
 </template>
 
